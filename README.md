@@ -163,7 +163,7 @@
 - Github: https://github.com/civicteam/identity-swap
 
 ### StreamFlow Finance
-> Helping organizations to distribute value and align incentives efficiently.
+> A powerful primitive that serves as a building block for various payment-related solutions.
 - Github: https://github.com/StreamFlow-Finance
 
 - - -
