@@ -53,6 +53,7 @@
 ### Advanced examples
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/): Building the escrow program
 - [A Vesting Contract for the Solana Blockchain](https://github.com/Bonfida/token-vesting)
+- [Token Vesting and Stream Payments](https://github.com/StreamFlow-Finance/timelock)
 - [Staking](https://github.com/step-finance/step-staking) (Use `Anchor`)
 - [Permissioned Markets](https://github.com/project-serum/permissioned-markets-quickstart) (Use `Serum`)
 
@@ -160,6 +161,10 @@
 ### IdentitySwap (forked token-swap)
 > IdentitySwap is an Automatic Money Market (AMM) dApp that demonstrates the concept of Decentralised Identity on the Solana SPL Token-Swap program. A user can interact with a liquidity pool only if they are in possession of a valid identity account, certified by a trusted identity validator.
 - Github: https://github.com/civicteam/identity-swap
+
+### StreamFlow Finance
+> Helping organizations to distribute value and align incentives efficiently.
+- Github: https://github.com/StreamFlow-Finance
 
 - - -
 
