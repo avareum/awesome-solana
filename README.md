@@ -49,6 +49,7 @@
 - [Building SmartContracts With #Solana and #Rust](https://www.youtube.com/watch?v=gA7hFdq2h9Q)
 - [Solana Programming: Connect to Wallet, Send Money, Query Transaction History](https://www.youtube.com/watch?v=wVPGJ_CZTAw)
 - [Build Dapps with Solana and Arweave](https://www.youtube.com/watch?v=Jz5v_u75xk8)
+- How to Anchor: An introduction to the Anchor Framework: https://www.youtube.com/watch?v=FmdPAwsqJC4
 
 ### Advanced examples
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/): Building the escrow program
