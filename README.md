@@ -67,7 +67,7 @@
 
 ### Libraries & Frameworks
 - Solana Program Library (SPL) is a collection of on-chain programs targeting the Sealevel parallel runtime: https://github.com/solana-labs/solana-program-library/blob/master/examples/rust/README.md
-- [Anchor Framework](https://project-serum.github.io/anchor/getting-started/introduction.html): a framework for Solana's Sealevel (opens new window)runtime providing several convenient developer tools : https://project-serum.github.io/anchor/tutorials/tutorial-0.html
+- [Anchor Framework](https://project-serum.github.io/anchor/getting-started/introduction.html): a framework for Solana's Sealevel runtime providing several convenient developer tools : https://project-serum.github.io/anchor/tutorials/tutorial-0.html
 - [StreamingFast Solana library for Go](https://github.com/streamingfast/solana-go)
 - [Rust Library for the Binance API](https://github.com/wisespace-io/binance-rs)
 
