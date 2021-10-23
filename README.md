@@ -93,6 +93,7 @@
 - Flux Protocol (cross-chain oracle aggregator): https://www.fluxprotocol.org/
 - [Serum Vial](https://github.com/tardis-dev/serum-vial) - real-time WebSocket market data API for Serum
 - Bonfida: https://docs.bonfida.com/#exchanges
+- Bitquery: https://graphql.bitquery.io/ - graphql for Solana blockchain, [article](https://bitquery.io/blog/solana-api)
 
 ### Price examples
 - `curl 'https://price-api.sonar.watch/prices/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE'`
