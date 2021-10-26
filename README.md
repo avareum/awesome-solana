@@ -1,6 +1,11 @@
 # awesome-solana
 
 ## 👩‍🎤 User
+
+### Wallet
+- [Phantom Wallet](https://phantom.app/) A non-custodial, chrome extension, Solana crypto wallet
+- [SolFlare](https://solflare.com/) Non-custodial wallet for Solana
+
 ### Bridge
 - `Allbridge`: backed by `APYSwap` Foundation: https://allbridge.io/
 - `Wormhole`: just release v2, (liquidity still not stable `BSC`↔︎`ETH`↔︎`SOL`): https://wormholebridge.com/#/transfer
@@ -43,6 +48,9 @@
 - [R/W JSON format on the Solana contract](https://github.com/jamesbachini/Solana-JSON)
 - [Program examples written in Rust](https://github.com/solana-labs/solana-program-library/tree/master/examples/rust)
 - [Interface for creating and managing SPL Tokens](https://www.spl-token-ui.com/#/)
+
+### Wallet examples
+- SPL Token Wallet (`Serum`): https://github.com/project-serum/spl-token-wallet
 - Library to allow Solana dApps to use third-party wallets to sign transactions: https://github.com/project-serum/sol-wallet-adapter
 
 ### Video examples
@@ -116,8 +124,6 @@
 - [SPL Token Creator UI](https://www.spl-token-ui.com/)
 - [Bonfida Token Minter](https://bonfida.com/mint)
 - [SPL Manager](http://splmanager.com/)
-- [Phantom Wallet](https://phantom.app/) A non-custodial, chrome extension, Solana crypto wallet
-- [SolFlare](https://solflare.com/) Non-custodial wallet for Solana
 - [honggfuzz-rs](https://github.com/rust-fuzz/honggfuzz-rs): Fuzz your Rust code with Google-developed Honggfuzz!
 
 ### Network status
