@@ -125,6 +125,7 @@
 - [Bonfida Token Minter](https://bonfida.com/mint)
 - [SPL Manager](http://splmanager.com/)
 - [honggfuzz-rs](https://github.com/rust-fuzz/honggfuzz-rs): Fuzz your Rust code with Google-developed Honggfuzz!
+- https://github.com/lithdew/alon : Alon is an IDE which allows for developers to rapidly build, iterate, test, and deploy decentralized apps and assets on Solana right from their browser
 
 ### Network status
 
