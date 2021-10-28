@@ -137,6 +137,10 @@
 ### Ethereum related
 - [Neon EVM](https://neon-labs.org/) is an Ethereum virtual machine on Solana that enables dApp developers to use Ethereum tooling to scale and get access to liquidity on Solana.
 
+### Others
+- https://github.com/skywinder/web3swift : web3swift is an iOS toolbelt for interaction with the Ethereum network.
+- https://github.com/ajamaica/Solana.Swift : Pure swift for Solana protocol.
+
 - - -
 
 ## 👩‍🚀 Product Examples
