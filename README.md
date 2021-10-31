@@ -141,6 +141,10 @@
 - https://github.com/skywinder/web3swift : web3swift is an iOS toolbelt for interaction with the Ethereum network.
 - https://github.com/ajamaica/Solana.Swift : Pure swift for Solana protocol.
 
+## M1 related
+- How to make Solana Test Validator work with a Macbook with M1 chip: https://dev.to/codenjobs/how-to-make-solana-test-validator-work-with-a-macbook-with-m1-chip-5emd
+
+
 - - -
 
 ## 👩‍🚀 Product Examples
