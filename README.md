@@ -68,7 +68,7 @@
 - The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom: https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
 
 ### Other examples
-- Anchor (IDO, CFO, Swap, Multisig, Game, Chat, Proxy, ...): https://github.com/project-serum/anchor/tree/master/tests
+- Anchor (IDO, CFO, Swap, Multisig, Escrow, Game, Chat, Proxy, ...): https://github.com/project-serum/anchor/tree/master/tests
 - Voting App: https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444
 - Solana File Upload: https://github.com/mcf-rocks/solana-upload
 - SPL Token UI: https://github.com/paul-schaaf/spl-token-ui
