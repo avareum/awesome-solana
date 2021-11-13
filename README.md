@@ -40,6 +40,9 @@
 - Solana Program Library (SLP): https://spl.solana.com/
   > The Solana Program Library (SPL) is a collection of on-chain programs targeting the Sealevel parallel runtime.
 
+### Good read
+- Solana Transactions in Depth: https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2
+
 ### Basic examples
 - `Figment` Learn: https://learn.figment.io/
 - [Hello World](https://github.com/solana-labs/example-helloworld)
@@ -143,9 +146,8 @@
 - https://github.com/skywinder/web3swift : web3swift is an iOS toolbelt for interaction with the Ethereum network.
 - https://github.com/ajamaica/Solana.Swift : Pure swift for Solana protocol.
 
-## M1 related
+### M1 related
 - How to make Solana Test Validator work with a Macbook with M1 chip: https://dev.to/codenjobs/how-to-make-solana-test-validator-work-with-a-macbook-with-m1-chip-5emd
-
 
 - - -
 
