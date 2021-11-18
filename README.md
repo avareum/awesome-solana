@@ -78,7 +78,7 @@
 - SPL Token UI: https://github.com/paul-schaaf/spl-token-ui
 - SPL Token Faucet: https://github.com/paul-schaaf/spl-token-faucet
   > Token faucets allow developers to easily give others access to tokens of a specific mint without sending around their private key. This is accomplished through a token faucet program.
-  > 
+  >
   > When creating a token faucet, the chosen token's mint authority is transferred to a Program Derived Address. The program then accepts minting requests. Having received such a request, the program checks that the requested amount is lower than the configured max amount or that the requester is the faucet admin (in which case they may mint as much as they like). These parameters can be set during faucet creation. Finally, a faucet may be closed again but only if it has an admin configured which must sign the closure tx. Faucet closure will transfer the token's mint authority back to the admin.
 - Messaging App (POC): https://github.com/kemargrant/soltalk
 
@@ -196,3 +196,11 @@
 
 ## 🕵🏻‍♂️ Audit
 - `Bonfida` by  Kudelski: https://github.com/Bonfida/token-vesting/blob/master/audit/Bonfida_SecurityAssessment_Vesting_Final050521.pdf
+
+- - -
+
+## Talks and Podcasts
+- [Breakpoint 2021: Serum: Powering DeFi 2.0 / Writing Smart Contracts on Solana with Anchor](https://youtu.be/cvW8EwGHw8U)
+- [Breakpoint 2021: Why You Should Build Your DeFi Dapp Using Anchor](https://youtu.be/725ddOvfWjk)
+- [Breakpoint 2021: From Elsewhere: Oracles and Data Feeds](https://youtu.be/JlaSH1j42UI)
+- [Breakpoint 2021: NFT Mechanics](https://www.youtube.com/watch?v=4qplEacSMvI)
