@@ -199,7 +199,7 @@
 
 - - -
 
-## Talks and Podcasts
+## 🎙 Talks and Podcasts
 - [Breakpoint 2021: Serum: Powering DeFi 2.0 / Writing Smart Contracts on Solana with Anchor](https://youtu.be/cvW8EwGHw8U)
 - [Breakpoint 2021: Why You Should Build Your DeFi Dapp Using Anchor](https://youtu.be/725ddOvfWjk)
 - [Breakpoint 2021: From Elsewhere: Oracles and Data Feeds](https://youtu.be/JlaSH1j42UI)
