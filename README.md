@@ -120,7 +120,7 @@
 - `Wormhole` is a protocol for communication between different blockchains: https://wormholenetwork.com/
 
 ### Storage
-- `Arweave` and Solana partnered to provide a decentralised permanent data storage solution of ledger data: https://www.arweave.org/
+- `Arweave` and Solana [partnered](https://medium.com/solana-labs/announcing-the-solar-bridge-c90718a49fa2) to provide a decentralised permanent data storage solution of ledger data: https://www.arweave.org/
 - `Ceramic` (Streaming `IPFS`): https://ceramic.network/
 
 ### Tools
