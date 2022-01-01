@@ -196,6 +196,7 @@
 - - -
 
 ## 🕵🏻‍♂️ Audit
+- How to audit Solana smart contracts Part 1: a systematic approach: https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c9ed
 - `Bonfida` by  Kudelski: https://github.com/Bonfida/token-vesting/blob/master/audit/Bonfida_SecurityAssessment_Vesting_Final050521.pdf
 
 - - -
