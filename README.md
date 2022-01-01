@@ -141,6 +141,7 @@
 - [Solana Validators](https://www.validators.app/) view validators statistics
 
 ### Ethereum related
+- From Ethereum smart contracts to Solana programs: two common security pitfalls and beyond: https://medium.com/coinmonks/from-ethereum-smart-contracts-to-solana-programs-two-common-security-pitfalls-and-beyond-ea5b919ade1c
 - [Neon EVM](https://neon-labs.org/) is an Ethereum virtual machine on Solana that enables dApp developers to use Ethereum tooling to scale and get access to liquidity on Solana.
 
 ### Others
