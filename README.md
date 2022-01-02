@@ -39,9 +39,10 @@
 - [Sealevel parallel runtime](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
 - Solana Program Library (SLP): https://spl.solana.com/
   > The Solana Program Library (SPL) is a collection of on-chain programs targeting the Sealevel parallel runtime.
-
-### Good read
 - Solana Transactions in Depth: https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2
+
+### Rust
+- Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
 
 ### Basic examples
 - `Figment` Learn: https://learn.figment.io/
