@@ -122,6 +122,7 @@
 
 ### Storage
 - `Arweave` and Solana [partnered](https://medium.com/solana-labs/announcing-the-solar-bridge-c90718a49fa2) to provide a decentralised permanent data storage solution of ledger data: https://www.arweave.org/
+- arweave-parallel-uploader: https://github.com/scottym5797/arweave-parallel-uploader
 - `Ceramic` (Streaming `IPFS`): https://ceramic.network/
 
 ### Tools
