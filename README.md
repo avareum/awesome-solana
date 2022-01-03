@@ -40,6 +40,8 @@
 - Solana Program Library (SLP): https://spl.solana.com/
   > The Solana Program Library (SPL) is a collection of on-chain programs targeting the Sealevel parallel runtime.
 - Solana Transactions in Depth: https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2
+- Solana internals
+  - Part 1: what are the native on-chain programs and why do they matter?: https://medium.com/coinmonks/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter-61c981483e86
 
 ### Rust
 - Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
@@ -199,7 +201,12 @@
 - - -
 
 ## 🕵🏻‍♂️ Audit
-- How to audit Solana smart contracts Part 1: a systematic approach: https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c9ed
+- Soteria: http://soteria.dev/
+- How to audit Solana smart contracts
+  - Part 1: a systematic approach: https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c9ed
+  - Part 2: automated scanning: https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-2-automated-scanning-ceb88830ae6d
+  - Part 3: penetration testing: https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-3-penetration-testing-a315b3bbb2d3
+  - Part 4: the Anchor framework: https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-4-the-anchor-framework-ef42d944f086
 - `Bonfida` by  Kudelski: https://github.com/Bonfida/token-vesting/blob/master/audit/Bonfida_SecurityAssessment_Vesting_Final050521.pdf
 
 - - -
