@@ -201,14 +201,17 @@
 - - -
 
 ## 🕵🏻‍♂️ Audit
-- Soteria: http://soteria.dev/
-- Soteria — A vulnerability scanner for Solana smart contracts: https://medium.com/coinmonks/soteria-a-vulnerability-scanner-for-solana-smart-contracts-cc202cf17c99
+- `Soteria` (Recommend): http://soteria.dev/
+- `Soteria` — A vulnerability scanner for Solana smart contracts: https://medium.com/coinmonks/soteria-a-vulnerability-scanner-for-solana-smart-contracts-cc202cf17c99
 - How to audit Solana smart contracts
   - Part 1: a systematic approach: https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c9ed
   - Part 2: automated scanning: https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-2-automated-scanning-ceb88830ae6d
   - Part 3: penetration testing: https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-3-penetration-testing-a315b3bbb2d3
   - Part 4: the Anchor framework: https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-4-the-anchor-framework-ef42d944f086
 - `Bonfida` by  Kudelski: https://github.com/Bonfida/token-vesting/blob/master/audit/Bonfida_SecurityAssessment_Vesting_Final050521.pdf
+- `Quantstamp`: https://solana.com/SolanaQuantstampStakePoolAudit.pdf
+- `Neodyme`: https://solana.com/SolanaNeodymeStakePoolAudit.pdf
+- `Kudelski`: https://solana.com/SolanaKudelskiStakePoolAudit.pdf
 
 - - -
 
