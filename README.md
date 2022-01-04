@@ -60,11 +60,18 @@
 - Library to allow Solana dApps to use third-party wallets to sign transactions: https://github.com/project-serum/sol-wallet-adapter
 
 ### Video examples
-- [Building SmartContracts With #Solana and #Rust](https://www.youtube.com/watch?v=gA7hFdq2h9Q)
-- [Solana Programming: Connect to Wallet, Send Money, Query Transaction History](https://www.youtube.com/watch?v=wVPGJ_CZTAw)
-- [Build Dapps with Solana and Arweave](https://www.youtube.com/watch?v=Jz5v_u75xk8)
+- Building SmartContracts With #Solana and #Rust: https://www.youtube.com/watch?v=gA7hFdq2h9Q
+- Solana Programming: Connect to Wallet, Send Money, Query Transaction History: https://www.youtube.com/watch?v=wVPGJ_CZTAw
+- Build Dapps with Solana and Arweave: https://www.youtube.com/watch?v=Jz5v_u75xk8
 - How to Anchor: An introduction to the Anchor Framework: https://www.youtube.com/watch?v=FmdPAwsqJC4
 - Avareum - Hello Rust and Anchor Framework (Thai Language): https://www.youtube.com/watch?v=DUnvIO2d-lc
+- Writing Smart Contracts on Solana with Anchor by Armani Ferrante: https://youtu.be/cvW8EwGHw8U?t=10
+- Why you should build your DeFi Dapp using Anchor by Henry Elder: https://youtu.be/725ddOvfWjk?t=23
+- Programming Solana Smart Contracts | Hello World Anchor Tutorial by Henry Elder: https://youtu.be/oD1umX_DnUw
+- Programming Solana Smart Contracts | Intermediate Anchor Tutorial by Henry Elder: https://youtu.be/i6Ycr5nhjH8
+- PsyOptions Demo Video: https://youtu.be/wNM_MTQQSwY
+- Foresight Demo Video - Prediction Markets: https://youtu.be/rL0bzGuwcdo
+- Wormhole Video Tutorial - How use Wormhole: https://youtu.be/zooVxP5Ucws
 
 ### Advanced examples
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/): Building the escrow program
