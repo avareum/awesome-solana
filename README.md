@@ -17,7 +17,7 @@
 - `Saber`: cross-chain stablecoin exchange, low and unable to sort APY: https://saber.so/
 
 ### Yield Aggregator
-- 🌷 `Tulip` Aggregates yield farms from `Raydium` and `Saber` (`ORCA-USDC` APY 350.97%): https://tulip.garden/
+- 🌷 `Tulip` Aggregates yield farms from `Raydium` and `Saber` (`STARS-USDC LP` 2x APY 8,841.84%): https://tulip.garden/leverage
 - `Sunny` Aggregator (Solana's composable DeFi yield aggregator), low apy bad ui:  https://app.sunny.ag/
 
 ### Fundraising Protocol
