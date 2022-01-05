@@ -45,6 +45,7 @@
 
 ### Rust
 - Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
+- Let's Get Rusty: https://www.youtube.com/channel/UCSp-OaMpsO8K0KkOqyBl7_w
 
 ### Basic examples
 - `Figment` Learn: https://learn.figment.io/
