@@ -55,6 +55,7 @@
 - [R/W JSON format on the Solana contract](https://github.com/jamesbachini/Solana-JSON)
 - [Program examples written in Rust](https://github.com/solana-labs/solana-program-library/tree/master/examples/rust)
 - [Interface for creating and managing SPL Tokens](https://www.spl-token-ui.com/#/)
+- Build unique generative NFTs on Solana with Candy Machine v2 and Hashlips Engine: https://learn.figment.io/tutorials/generative-nfts-on-solana-with-candy-machine-v2-and-hashlips
 
 ### Wallet examples
 - SPL Token Wallet (`Serum`): https://github.com/project-serum/spl-token-wallet
