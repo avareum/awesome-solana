@@ -123,11 +123,14 @@
 - Token list: https://github.com/solana-labs/token-list/blob/main/src/tokens/solana.tokenlist.json
 - `Serum` Price API by `Sonar`: https://docs-price-api.sonar.watch/
 - DataHub: https://figment.io/datahub/
-- Pyth provides real-time on-chain market data: https://pyth.network/
 - Flux Protocol (cross-chain oracle aggregator): https://www.fluxprotocol.org/
 - [Serum Vial](https://github.com/tardis-dev/serum-vial) - real-time WebSocket market data API for Serum
 - Bonfida: https://docs.bonfida.com/#exchanges
 - Bitquery: https://graphql.bitquery.io/ - graphql for Solana blockchain, [article](https://bitquery.io/blog/solana-api)
+
+### Oracle
+- Pyth provides real-time on-chain market data: https://pyth.network/
+- Switchboard allows builders to create data feeds from any API: https://switchboard.xyz/
 
 ### Price examples
 - `curl 'https://price-api.sonar.watch/prices/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE'`
