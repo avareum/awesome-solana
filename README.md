@@ -15,6 +15,7 @@
 - `APYSwap`: Stake(`ABR` APR 522.37%): https://stake.apyswap.com/
 - 🐳 `Orca`: Pools(`ABR-USDC` APR 218%): https://www.orca.so/pools
 - `Saber`: cross-chain stablecoin exchange, low and unable to sort APY: https://saber.so/
+- `Marinade`: Stake `SOL` get `mSOL` and farm `SOL-mSOL`: https://marinade.finance/
 
 ### Yield Aggregator
 - 🌷 `Tulip` Aggregates yield farms from `Raydium` and `Saber` (`STARS-USDC LP` 2x APY 8,841.84%): https://tulip.garden/leverage
