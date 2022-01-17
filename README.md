@@ -90,6 +90,7 @@
 ### Other examples
 - Anchor (IDO, CFO, Swap, Multisig, Escrow, Game, Chat, Proxy, ...): https://github.com/project-serum/anchor/tree/master/tests
 - Voting App: https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444
+- The Rust-only Voting example based on MoonZoon and Solana: https://github.com/MartinKavik/voting-solana-moonzoon
 - Solana File Upload: https://github.com/mcf-rocks/solana-upload
 - SPL Token UI: https://github.com/paul-schaaf/spl-token-ui
 - SPL Token Faucet: https://github.com/paul-schaaf/spl-token-faucet
