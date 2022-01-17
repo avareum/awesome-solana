@@ -41,7 +41,10 @@
   > The Solana Program Library (SPL) is a collection of on-chain programs targeting the Sealevel parallel runtime.
 - Solana Transactions in Depth: https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2
 - Solana internals
-  - Part 1: what are the native on-chain programs and why do they matter?: https://medium.com/coinmonks/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter-61c981483e86
+  - Part 1: what are the native on-chain programs and why do they matter?
+    > https://medium.com/coinmonks/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter-61c981483e86
+  - Part 2: how is a Solana program deployed and upgraded
+    > https://blog.soteria.dev/solana-internals-part-2-how-is-a-solana-deployed-and-upgraded-d0ae52601b99
 
 ### Rust
 - Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
