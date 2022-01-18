@@ -136,6 +136,7 @@
 ### Price examples
 - `curl 'https://price-api.sonar.watch/prices/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE'`
 - `curl 'https://api.solscan.io/account?address=orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE'`
+- `Anchor` + `Pyth`: https://github.com/project-serum/anchor/blob/master/tests/pyth/tests/pyth.spec.ts
 
 ### Messaging
 - `Wormhole` is a protocol for communication between different blockchains: https://wormholenetwork.com/
