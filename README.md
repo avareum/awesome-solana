@@ -53,6 +53,7 @@
     > https://blog.soteria.dev/solana-internals-part-2-how-is-a-solana-deployed-and-upgraded-d0ae52601b99
   - Part 3: the transaction processing unit (TPU)
     > https://medium.com/coinmonks/solana-internals-part-3-the-transaction-processing-unit-tpu-79887af07a04
+- 10 vulnerabilities to avoid when writing Solana programs: https://twitter.com/pencilflip/status/1483880018858201090
 
 ### Rust
 - Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
