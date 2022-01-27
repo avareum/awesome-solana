@@ -44,13 +44,14 @@
 - [Sealevel parallel runtime](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
 - Solana Program Library (SLP): https://spl.solana.com/
   > The Solana Program Library (SPL) is a collection of on-chain programs targeting the Sealevel parallel runtime.
+- Solana Development Tutorial: Things you should know before structuring your code: https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43
 - Solana Transactions in Depth: https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2
 - Solana internals
   - Part 1: what are the native on-chain programs and why do they matter?
     > https://medium.com/coinmonks/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter-61c981483e86
   - Part 2: how is a Solana program deployed and upgraded
     > https://blog.soteria.dev/solana-internals-part-2-how-is-a-solana-deployed-and-upgraded-d0ae52601b99
-  - Solana internals Part 3: the transaction processing unit (TPU)
+  - Part 3: the transaction processing unit (TPU)
     > https://medium.com/coinmonks/solana-internals-part-3-the-transaction-processing-unit-tpu-79887af07a04
 
 ### Rust
