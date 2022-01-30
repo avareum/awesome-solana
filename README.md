@@ -48,11 +48,13 @@
 - Solana Transactions in Depth: https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2
 - Solana internals
   - Part 1: what are the native on-chain programs and why do they matter?
-    > https://medium.com/coinmonks/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter-61c981483e86
+    > https://blog.soteria.dev/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter-61c981483e86
   - Part 2: how is a Solana program deployed and upgraded
     > https://blog.soteria.dev/solana-internals-part-2-how-is-a-solana-deployed-and-upgraded-d0ae52601b99
   - Part 3: the transaction processing unit (TPU)
-    > https://medium.com/coinmonks/solana-internals-part-3-the-transaction-processing-unit-tpu-79887af07a04
+    > https://blog.soteria.dev/solana-internals-part-3-the-transaction-processing-unit-tpu-79887af07a04
+  - Part 4: the bank — a key component
+    > https://blog.soteria.dev/solana-internals-part-4-the-bank-a-key-component-1d47b94cd705
 - 10 vulnerabilities to avoid when writing Solana programs: https://twitter.com/pencilflip/status/1483880018858201090
 
 ### Rust
