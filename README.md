@@ -176,6 +176,7 @@
 - [Services status](https://status.solana.com/) an official site
 - [Solana Beach](https://solanabeach.io/) services status and block explorer
 - [Solana Validators](https://www.validators.app/) view validators statistics
+- https://www.realtps.net/
 
 ### Ethereum related
 - From Ethereum smart contracts to Solana programs: two common security pitfalls and beyond: https://medium.com/coinmonks/from-ethereum-smart-contracts-to-solana-programs-two-common-security-pitfalls-and-beyond-ea5b919ade1c
