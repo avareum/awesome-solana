@@ -40,6 +40,7 @@
 ## 🧑🏻‍💻 Developer
 
 ### Must Read
+- TLDR: https://2501babe.github.io/posts/solana101.html
 - Solana Doc: https://docs.solana.com/
 - [Sealevel parallel runtime](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
 - Solana Program Library (SLP): https://spl.solana.com/
