@@ -41,6 +41,7 @@
 
 ### Must Read
 - TLDR: https://2501babe.github.io/posts/solana101.html
+- How smart contracts work on Solana’s Proof of History based blockchain: https://medium.com/solana-labs/high-performance-memory-management-for-smart-contracts-aa9b3bc950fb
 - Solana Doc: https://docs.solana.com/
 - [Sealevel parallel runtime](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
 - Solana Program Library (SLP): https://spl.solana.com/
