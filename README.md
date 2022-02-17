@@ -57,7 +57,6 @@
     > https://blog.soteria.dev/solana-internals-part-3-the-transaction-processing-unit-tpu-79887af07a04
   - Part 4: the bank — a key component
     > https://blog.soteria.dev/solana-internals-part-4-the-bank-a-key-component-1d47b94cd705
-- 10 vulnerabilities to avoid when writing Solana programs: https://twitter.com/pencilflip/status/1483880018858201090
 
 ### Rust
 - Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
@@ -234,11 +233,11 @@
 > A powerful primitive that serves as a building block for various payment-related solutions.
 - Github: https://github.com/StreamFlow-Finance
 
-- - - 
+- - -
 
-## Incident
-- 2020-09-14 - Reflections on Solana's Sept 14 outage: https://jumpcrypto.com/reflections-on-the-sept-14-solana-outage/
-- 2022-02-03 - The Wormhole Hack: https://blog.soteria.dev/the-wormhole-hack-how-soteria-detects-the-vulnerability-automatically-eb0f433e8071
+### 😱 Pitfalls
+- Solana Smart Contracts: Common Pitfalls and How to Avoid Them: https://blog.neodyme.io/posts/solana_common_pitfalls
+- 10 vulnerabilities to avoid when writing Solana programs: https://twitter.com/pencilflip/status/1483880018858201090
 
 - - -
 
@@ -254,6 +253,12 @@
 - `Quantstamp`: https://solana.com/SolanaQuantstampStakePoolAudit.pdf
 - `Neodyme`: https://solana.com/SolanaNeodymeStakePoolAudit.pdf
 - `Kudelski`: https://solana.com/SolanaKudelskiStakePoolAudit.pdf
+
+- - - 
+
+## Incident
+- 2020-09-14 - Reflections on Solana's Sept 14 outage: https://jumpcrypto.com/reflections-on-the-sept-14-solana-outage/
+- 2022-02-03 - The Wormhole Hack: https://blog.soteria.dev/the-wormhole-hack-how-soteria-detects-the-vulnerability-automatically-eb0f433e8071
 
 - - -
 
