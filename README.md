@@ -253,6 +253,7 @@
 - `Quantstamp`: https://solana.com/SolanaQuantstampStakePoolAudit.pdf
 - `Neodyme`: https://solana.com/SolanaNeodymeStakePoolAudit.pdf
 - `Kudelski`: https://solana.com/SolanaKudelskiStakePoolAudit.pdf
+- `Solido`: https://github.com/ChorusOne/solido/tree/main/audit
 
 - - - 
 
