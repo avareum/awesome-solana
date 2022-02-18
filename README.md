@@ -7,7 +7,7 @@
 - [SolFlare](https://solflare.com/) Non-custodial wallet for Solana
 
 ### Bridge
-- `Allbridge`: backed by `APYSwap` API 2020-Q1 Foundation: https://allbridge.io/
+- `Allbridge`: backed by `APYSwap` API 2022-Q1 Foundation: https://allbridge.io/
 - `Wormhole`: just release v2, (liquidity still not stable `BSC`↔︎`ETH`↔︎`SOL`): https://wormholebridge.com/#/transfer
 
 ### Stake
