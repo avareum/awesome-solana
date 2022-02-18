@@ -7,17 +7,23 @@
 - [SolFlare](https://solflare.com/) Non-custodial wallet for Solana
 
 ### Bridge
-- `Allbridge`: backed by `APYSwap` Foundation: https://allbridge.io/
+- `Allbridge`: backed by `APYSwap` API 2020-Q1 Foundation: https://allbridge.io/
 - `Wormhole`: just release v2, (liquidity still not stable `BSC`↔︎`ETH`↔︎`SOL`): https://wormholebridge.com/#/transfer
+
+### Stake
+- `Marinade`: Liquid Stake+Ref `SOL` get `mSOL` APY 6.16% and farm `SOL-mSOL`: https://marinade.finance/
+- `Lido`: `stSol` Liquid Stake (planned Ref) APY 5.89%: https://solana.lido.fi/
 
 ### Farms
 - `Raydium` (DEX on `Serum`): https://raydium.io/
 - `APYSwap`: Stake(`ABR` APR 522.37%): https://stake.apyswap.com/
 - 🐳 `Orca`: Pools(`ABR-USDC` APR 218%): https://www.orca.so/pools
 - `Saber`: cross-chain stablecoin exchange, low and unable to sort APY: https://saber.so/
-- `Marinade`: Stake `SOL` get `mSOL` and farm `SOL-mSOL`: https://marinade.finance/
 - `Mercurial` : Stable `wbBUSD-wbUSDC-wbUSDT-USDC` APY 14.33% : https://mercurial.finance/pools/wbbusd-4pool
 - `Jupiter` : takes zero fees : https://jup.ag/stats
+
+### Farm creation
+- `Atrix`: https://app.atrix.finance/#/create/farm
 
 ### Yield Aggregator
 - 🌷 `Tulip` Aggregates yield farms from `Raydium` and `Saber` (`STARS-USDC LP` 2x APY 8,841.84%): https://tulip.garden/leverage
