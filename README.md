@@ -243,6 +243,13 @@
 > A powerful primitive that serves as a building block for various payment-related solutions.
 - Github: https://github.com/StreamFlow-Finance
 
+### Agrora http://agora.xyz
+> Agora Space connects Discord, Twitter and other social media platforms with the blockchain providing a range of tools to upgrade DAOs and Social Token communities.
+- Github: https://github.com/agoraxyz
+
+### Cronos: https://www.cronos.so/
+> Cronos is a decentralized task scheduler for Solana. 
+- Github: https://github.com/cronos-so/cronos
 - - -
 
 ### 😱 Pitfalls
