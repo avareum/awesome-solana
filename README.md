@@ -196,6 +196,10 @@
 ### M1 related
 - How to make Solana Test Validator work with a Macbook with M1 chip: https://dev.to/codenjobs/how-to-make-solana-test-validator-work-with-a-macbook-with-m1-chip-5emd
 
+### WASM related
+- A technical overview of developing gold.xyz: https://mirror.xyz/goldxyz.eth/cP4BqSyI_xP04VgRSsAtdDyDkvDcfUG_ZFgWYILDhjQ?123
+  > `memmap2`, `rpc` workaround
+
 - - -
 
 ## 👩‍🚀 Product Examples
