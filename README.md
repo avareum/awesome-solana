@@ -272,6 +272,7 @@
 - `Kudelski`: https://solana.com/SolanaKudelskiStakePoolAudit.pdf
 - `Solido`: https://github.com/ChorusOne/solido/tree/main/audit
 - `Saber.stable-swap`: https://github.com/saber-hq/stable-swap/blob/master/audit/bramah-systems.pdf
+- `Quarry`: https://github.com/QuarryProtocol/quarry/blob/master/audit/quantstamp.pdf
 
 - - - 
 
