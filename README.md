@@ -264,6 +264,7 @@
 - `Neodyme`: https://solana.com/SolanaNeodymeStakePoolAudit.pdf
 - `Kudelski`: https://solana.com/SolanaKudelskiStakePoolAudit.pdf
 - `Solido`: https://github.com/ChorusOne/solido/tree/main/audit
+- `Saber.stable-swap`: https://github.com/saber-hq/stable-swap/blob/master/audit/bramah-systems.pdf
 
 - - - 
 
