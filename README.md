@@ -41,6 +41,10 @@
 - `SolScan`: https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
 - `Solona Explorer`: https://explorer.solana.com/address/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
 
+### Token List
+- https://github.com/solana-labs/token-list
+- https://shipcapital.substack.com/p/drop-005-solana-tokendao
+
 - - -
 
 ## 🧑🏻‍💻 Developer
