@@ -82,9 +82,10 @@
 - [Interface for creating and managing SPL Tokens](https://www.spl-token-ui.com/#/)
 - Build unique generative NFTs on Solana with Candy Machine v2 and Hashlips Engine: https://learn.figment.io/tutorials/generative-nfts-on-solana-with-candy-machine-v2-and-hashlips
 
-### Wallet examples
+### Wallet/dApp examples
 - SPL Token Wallet (`Serum`): https://github.com/project-serum/spl-token-wallet
 - Library to allow Solana dApps to use third-party wallets to sign transactions: https://github.com/project-serum/sol-wallet-adapter
+- 🏗 Solana App Scaffold: https://github.com/solana-labs/dapp-scaffold
 
 ### Video examples
 - Building SmartContracts With #Solana and #Rust: https://www.youtube.com/watch?v=gA7hFdq2h9Q
@@ -130,7 +131,6 @@
 ### Farm SDK
 - Orca: https://github.com/orca-so/typescript-sdk
 - Francium: https://github.com/Francium-DeFi/francium-sdk
-- 
 
 ### Full Stacks
 - Tokio: https://tokio.rs/
