@@ -26,7 +26,7 @@
 - `Atrix`: https://app.atrix.finance/#/create/farm
 
 ### Yield Aggregator
-- 🌷 `Tulip` Aggregates yield farms from `Raydium` and `Saber` (`STARS-USDC LP` 2x APY 8,841.84%): https://tulip.garden/leverage
+- 🌷 `Tulip` Aggregates yield farms from `Raydium` and `Saber` : https://tulip.garden/leverage
 - `Sunny` Aggregator (Solana's composable DeFi yield aggregator), low apy bad ui:  https://app.sunny.ag/
 - `Francium`: Solana Yield Farming Calculator : https://francium.io/app/calculator
 
