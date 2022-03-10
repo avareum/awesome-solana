@@ -37,6 +37,10 @@
 - https://www.metaplex.com/
 - https://solanart.io/
 
+### DAO
+- `Tribeca`: https://tribeca.so/
+  > Tribeca is a protocol for creating, managing, and interacting with decentralized autonomous organizations on Solana.
+
 ### Explorer
 - `SolScan`: https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
 - `Solona Explorer`: https://explorer.solana.com/address/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
