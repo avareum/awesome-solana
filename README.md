@@ -114,6 +114,8 @@
 - The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom: https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
 - Swap: https://github.com/REGO350/macroswap
 - Anchor: A Powerful Framework for Solana Developers: https://hackmd.io/@ironaddicteddog/solana-anchor-escrow
+- Create a Solana dApp from scratch: https://lorisleiva.com/create-a-solana-dapp-from-scratch
+  > Implement a simplified version of Twitter as a Solana dApp (decentralised application). We'll write our own program and use it in a custom VueJS app.
 
 ### Other examples
 - Anchor (IDO, CFO, Swap, Multisig, Escrow, Game, Chat, Proxy, ...): https://github.com/project-serum/anchor/tree/master/tests
