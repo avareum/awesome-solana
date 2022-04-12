@@ -90,6 +90,7 @@
 - SPL Token Wallet (`Serum`): https://github.com/project-serum/spl-token-wallet
 - Library to allow Solana dApps to use third-party wallets to sign transactions: https://github.com/project-serum/sol-wallet-adapter
 - 🏗 Solana App Scaffold: https://github.com/solana-labs/dapp-scaffold
+- Web3 Solana, Near: https://github.com/russellwmy/web3-rs
 
 ### Video examples
 - Building SmartContracts With #Solana and #Rust: https://www.youtube.com/watch?v=gA7hFdq2h9Q
