@@ -84,7 +84,6 @@
 - [R/W JSON format on the Solana contract](https://github.com/jamesbachini/Solana-JSON)
 - [Program examples written in Rust](https://github.com/solana-labs/solana-program-library/tree/master/examples/rust)
 - [Interface for creating and managing SPL Tokens](https://www.spl-token-ui.com/#/)
-- Build unique generative NFTs on Solana with Candy Machine v2 and Hashlips Engine: https://learn.figment.io/tutorials/generative-nfts-on-solana-with-candy-machine-v2-and-hashlips
 
 ### Wallet/dApp examples
 - SPL Token Wallet (`Serum`): https://github.com/project-serum/spl-token-wallet
@@ -219,10 +218,13 @@
 
 ## 👩‍🚀 Product Examples
 
-### `Metaplex`
+### `NFT`
 > [Metaplex](https://metaplex.com/) is a strategic partner of `Solana` Labs
 - Create a `Solana` `NFT` marketplace and mint `NFT`s using `Metaplex` on `Arweave`: https://learn.figment.io/tutorials/create-a-solana-nft-marketplace-with-metaplex
 - `Metaplex` Docs : https://docs.metaplex.com/architecture/deep_dive/overview
+- Build unique generative NFTs on Solana with Candy Machine v2 and Hashlips Engine: https://learn.figment.io/tutorials/generative-nfts-on-solana-with-candy-machine-v2-and-hashlips
+- Mint NFTs on Solana using Metaplex and Anchor: https://github.com/anoushk1234/metaplex-anchor-nft
+  > An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
 
 ### `Serum`
 > (FTX DEX backend): https://projectserum.com/
