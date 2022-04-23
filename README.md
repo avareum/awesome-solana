@@ -191,6 +191,8 @@
 - https://github.com/lithdew/alon : Alon is an IDE which allows for developers to rapidly build, iterate, test, and deploy decentralized apps and assets on Solana right from their browser
 - https://github.com/agoraxyz/agora-solana/blob/main/agsol-borsh-schema/README.md
   > A parsing library that generates TypeScript classes and serialization schemas from Rust data structures.
+- `Solana PoC Framework`: https://github.com/otter-sec/solana-poc-framework
+  > A framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way.
 
 ### Network status
 
@@ -293,7 +295,7 @@
 - `Solido`: https://github.com/ChorusOne/solido/tree/main/audit
 - `Saber.stable-swap`: https://github.com/saber-hq/stable-swap/blob/master/audit/bramah-systems.pdf
 - `Quarry`: https://github.com/QuarryProtocol/quarry/blob/master/audit/quantstamp.pdf
-
+- `OtterSec`: https://github.com/otter-sec
 - - - 
 
 ## Incident
