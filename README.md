@@ -182,6 +182,7 @@
 - `Ceramic` (Streaming `IPFS`): https://ceramic.network/
 
 ### Tools
+
 - [SPL Token UI](https://spl-token-ui.com) for general token management on all clusters
 - [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed
 - [SPL Token Creator UI](https://www.spl-token-ui.com/)
@@ -193,6 +194,8 @@
   > A parsing library that generates TypeScript classes and serialization schemas from Rust data structures.
 - `Solana PoC Framework`: https://github.com/otter-sec/solana-poc-framework
   > A framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way.
+- Solana Playground:  https://beta.solpg.io/
+
 
 ### Network status
 
