@@ -129,10 +129,14 @@
   >
   > When creating a token faucet, the chosen token's mint authority is transferred to a Program Derived Address. The program then accepts minting requests. Having received such a request, the program checks that the requested amount is lower than the configured max amount or that the requester is the faucet admin (in which case they may mint as much as they like). These parameters can be set during faucet creation. Finally, a faucet may be closed again but only if it has an admin configured which must sign the closure tx. Faucet closure will transfer the token's mint authority back to the admin.
 - Messaging App (POC): https://github.com/kemargrant/soltalk
+- Solana tutorials: https://soldev.app/library/tutorials
+- Solana Cookbook: https://solanacookbook.com/
+  > The Solana Cookbook is a developer resource that provides the essential concepts and references for building applications on Solana. Each concept and reference will focus on specific aspects of Solana development while providing additional details and usage examples.
 
 ### Libraries & Frameworks
 - Solana Program Library (SPL) is a collection of on-chain programs targeting the Sealevel parallel runtime: https://github.com/solana-labs/solana-program-library/blob/master/examples/rust/README.md
 - [Anchor Framework](https://project-serum.github.io/anchor/getting-started/introduction.html): a framework for Solana's Sealevel runtime providing several convenient developer tools : https://project-serum.github.io/anchor/tutorials/tutorial-0.html
+- Anchor Book: https://book.anchor-lang.com/
 - [StreamingFast Solana library for Go](https://github.com/streamingfast/solana-go)
 - [Rust Library for the Binance API](https://github.com/wisespace-io/binance-rs)
 
