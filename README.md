@@ -72,6 +72,7 @@
     > https://blog.soteria.dev/solana-internals-part-3-the-transaction-processing-unit-tpu-79887af07a04
   - Part 4: the bank — a key component
     > https://blog.soteria.dev/solana-internals-part-4-the-bank-a-key-component-1d47b94cd705
+- Solana Composability vs Ethereum Composability: https://blog.strataprotocol.com/solana-composability-vs-eth-composability
 
 ### Rust
 - Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
