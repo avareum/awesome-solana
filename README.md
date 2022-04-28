@@ -26,12 +26,15 @@
 - `Atrix`: https://app.atrix.finance/#/create/farm
 
 ### Yield Aggregator
-- 🌷 `Tulip` Aggregates yield farms from `Raydium` and `Saber` : https://tulip.garden/leverage
-- `Sunny` Aggregator (Solana's composable DeFi yield aggregator), low apy bad ui:  https://app.sunny.ag/
-- `Francium`: Solana Yield Farming Calculator : https://francium.io/app/calculator
+- 🌷 `Tulip`-  Aggregates yield farms from `Raydium` and `Saber` : https://tulip.garden/leverage
+- ☀️ `Sunny`-  Aggregator (Solana's composable DeFi yield aggregator), low apy bad ui:  https://app.sunny.ag/
+- `Francium` - Solana Yield Farming Calculator : https://francium.io/app/calculator
+- `Cykura`- Concentrated liquidity: https://cykura.io
 
 ### Fundraising Protocol
 - `Solanium`: https://solanium.io/
+- `Strata` : https://strataprotocol.com/
+  > Strata Protocol is an open-source protocol to launch tokens around a person, project, idea, or collective on Solana.
 
 ### NFT
 - https://www.metaplex.com/
