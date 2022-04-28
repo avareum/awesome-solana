@@ -75,7 +75,6 @@
     > https://blog.soteria.dev/solana-internals-part-3-the-transaction-processing-unit-tpu-79887af07a04
   - Part 4: the bank — a key component
     > https://blog.soteria.dev/solana-internals-part-4-the-bank-a-key-component-1d47b94cd705
-- Solana Composability vs Ethereum Composability: https://blog.strataprotocol.com/solana-composability-vs-eth-composability
 
 ### Rust
 - Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
@@ -217,6 +216,7 @@
 ### Ethereum related
 - From Ethereum smart contracts to Solana programs: two common security pitfalls and beyond: https://medium.com/coinmonks/from-ethereum-smart-contracts-to-solana-programs-two-common-security-pitfalls-and-beyond-ea5b919ade1c
 - [Neon EVM](https://neon-labs.org/) is an Ethereum virtual machine on Solana that enables dApp developers to use Ethereum tooling to scale and get access to liquidity on Solana.
+- Solana Composability vs Ethereum Composability: https://blog.strataprotocol.com/solana-composability-vs-eth-composability
 
 ### Others
 - https://github.com/skywinder/web3swift : web3swift is an iOS toolbelt for interaction with the Ethereum network.
