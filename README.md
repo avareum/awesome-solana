@@ -89,6 +89,10 @@
 - [Program examples written in Rust](https://github.com/solana-labs/solana-program-library/tree/master/examples/rust)
 - [Interface for creating and managing SPL Tokens](https://www.spl-token-ui.com/#/)
 
+### Courses
+- Solana Development Course: https://soldev.app/course
+  > This course is designed to be the absolute best starting point for Web Developers looking to learn Web3 Development.
+
 ### Wallet/dApp examples
 - SPL Token Wallet (`Serum`): https://github.com/project-serum/spl-token-wallet
 - Library to allow Solana dApps to use third-party wallets to sign transactions: https://github.com/project-serum/sol-wallet-adapter
