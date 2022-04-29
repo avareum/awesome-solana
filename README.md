@@ -166,6 +166,7 @@
 - Blockdaemon: https://blockdaemon.com/marketplace/solana/
 - Syndica: https://syndica.io/
 - QuickNode: https://quicknode.com/
+- Pocket Network: https://www.pokt.network/
 
 ### Data/API
 - Token list: https://github.com/solana-labs/token-list/blob/main/src/tokens/solana.tokenlist.json
