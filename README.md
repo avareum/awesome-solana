@@ -147,6 +147,8 @@
 - [StreamingFast Solana library for Go](https://github.com/streamingfast/solana-go)
 - [Rust Library for the Binance API](https://github.com/wisespace-io/binance-rs)
 - Peripheral contracts for interacting with Saber: https://github.com/saber-hq/saber-periphery
+- The best Solana Program Template (No Anchor!): https://github.com/stegaBOB/solana-program-template
+  > Includes Shank/Solita SDK generation, Amman support, scripts, .github configuration, and more!
 
 ### Farm SDK
 - Orca: https://github.com/orca-so/typescript-sdk
