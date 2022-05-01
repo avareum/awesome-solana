@@ -327,6 +327,7 @@
 - `2022-05-01` - NFT bot (4m per second): https://twitter.com/SolanaStatus/status/1520554250803236867
    - https://twitter.com/StrataProtocol/status/1520591579777421312
    - https://twitter.com/metaplex/status/1520608064155521024
+   - https://twitter.com/laine_sa_/status/1520778331746095105
 
 - - -
 
