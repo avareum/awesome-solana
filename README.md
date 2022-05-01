@@ -13,6 +13,7 @@
 ### Stake
 - `Marinade`: Liquid Stake+Ref `SOL` get `mSOL` APY 6.16% and farm `SOL-mSOL`: https://marinade.finance/
 - `Lido`: `stSol` Liquid Stake (planned Ref) APY 5.89%: https://solana.lido.fi/
+- Stake rank: https://stakewiz.com/
 
 ### Farms
 - `Raydium` (DEX on `Serum`): https://raydium.io/
