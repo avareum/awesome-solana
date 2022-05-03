@@ -324,7 +324,8 @@
 - `2020-09-14` - Reflections on Solana's Sept 14 outage: https://jumpcrypto.com/reflections-on-the-sept-14-solana-outage/
 - `2022-02-03` - The Wormhole Hack: https://blog.soteria.dev/the-wormhole-hack-how-soteria-detects-the-vulnerability-automatically-eb0f433e8071
 - `2022-04-26` - Solana Program Library token-swap critical rounding exploit: https://osec.io/blog/reports/2022-04-26-spl-swap-rounding/
-- `2022-05-01` - NFT bot (4m per second): https://twitter.com/SolanaStatus/status/1520554250803236867
+- `2022-04-30` - Solana Mainnet Beta Outage Report and Mitigation: https://solana.com/news/04-30-22-solana-mainnet-beta-outage-report-mitigation
+   - NFT bot (6m per second): https://twitter.com/SolanaStatus/status/1520554250803236867
    - https://twitter.com/StrataProtocol/status/1520591579777421312
    - https://twitter.com/metaplex/status/1520608064155521024
    - https://twitter.com/laine_sa_/status/1520778331746095105
