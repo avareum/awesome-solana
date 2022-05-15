@@ -77,9 +77,15 @@
   - Part 4: the bank — a key component
     > https://blog.soteria.dev/solana-internals-part-4-the-bank-a-key-component-1d47b94cd705
 
+### Learn
+- Solana Development Course: https://soldev.app/course
+  > This course is designed to be the absolute best starting point for Web Developers looking to learn Web3 Development.
+- Solana Cookbook: https://solanacookbook.com/
+ > The Solana Cookbook is a developer resource that provides the essential concepts and references for building applications on Solana.
+- BUIDL a Solana Program - Explain me like I am web2: https://blog.mwrites.xyz/your-first-solana-program
+
 ### Rust
-- Ultimate Rust Crash Course: https://github.com/CleanCut/ultimate_rust_crash_course
-- Let's Get Rusty: https://www.youtube.com/channel/UCSp-OaMpsO8K0KkOqyBl7_w
+- https://github.com/katopz/awesome-rust
 
 ### Basic examples
 - `Figment` Learn: https://learn.figment.io/
@@ -89,10 +95,6 @@
 - [R/W JSON format on the Solana contract](https://github.com/jamesbachini/Solana-JSON)
 - [Program examples written in Rust](https://github.com/solana-labs/solana-program-library/tree/master/examples/rust)
 - [Interface for creating and managing SPL Tokens](https://www.spl-token-ui.com/#/)
-
-### Courses
-- Solana Development Course: https://soldev.app/course
-  > This course is designed to be the absolute best starting point for Web Developers looking to learn Web3 Development.
 
 ### Wallet/dApp examples
 - SPL Token Wallet (`Serum`): https://github.com/project-serum/spl-token-wallet
