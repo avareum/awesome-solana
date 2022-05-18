@@ -214,7 +214,7 @@
   > A framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way.
 - Solana Playground:  https://beta.solpg.io/
 - Trdelník: https://github.com/Ackee-Blockchain/trdelnik
-  > Trdelník is Rust based testing framework providing several convenient developer tools for testing Solana programs written in Anchor.
+  > 🦀 Trdelník is Rust based testing framework providing several convenient developer tools for testing Solana programs written in Anchor.
 
 ### Network status
 
