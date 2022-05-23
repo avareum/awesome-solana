@@ -296,6 +296,11 @@
 ### Cronos: https://www.cronos.so/
 > Cronos is a decentralized task scheduler for Solana. 
 - Github: https://github.com/cronos-so/cronos
+
+### Cardinal: https://www.cardinal.so/
+> The Utility Layer for Solana NFTs.
+- Github: https://github.com/cardinal-labs
+
 - - -
 
 ### 😱 Pitfalls
@@ -303,6 +308,11 @@
 - 10 vulnerabilities to avoid when writing Solana programs: https://twitter.com/pencilflip/status/1483880018858201090
 - Sealevel Attacks: https://github.com/project-serum/sealevel-attacks
   > Examples of common exploits unique to the Solana programming model and recommended idioms for avoiding these attacks using the Anchor framework.
+
+- - -
+
+### DAO
+- Deploy DAO: https://github.com/DeployDAO/migrator
 
 - - -
 
