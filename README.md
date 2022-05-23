@@ -115,6 +115,7 @@
 - PsyOptions Demo Video: https://youtu.be/wNM_MTQQSwY
 - Foresight Demo Video - Prediction Markets: https://youtu.be/rL0bzGuwcdo
 - Wormhole Video Tutorial - How use Wormhole: https://youtu.be/zooVxP5Ucws
+- Rust Solana Tutorial: https://www.youtube.com/watch?v=CsKbzsN7q1o&list=PLUBKxx7QjtVnU3hkPc8GF1Jh4DE7cf4n1
 
 ### Advanced examples
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/): Building the escrow program
