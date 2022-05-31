@@ -313,6 +313,10 @@
 
 ### DAO
 - Deploy DAO: https://github.com/DeployDAO/migrator
+- Solana Governance:
+  - ui: https://github.com/solana-labs/governance-ui
+  - governance-sdk: https://github.com/solana-labs/oyster/tree/main/packages/governance-sdk
+  - spl: https://github.com/solana-labs/solana-program-library/tree/master/governance
 
 - - -
 
