@@ -253,8 +253,6 @@
 - Build unique generative NFTs on Solana with Candy Machine v2 and Hashlips Engine: https://learn.figment.io/tutorials/generative-nfts-on-solana-with-candy-machine-v2-and-hashlips
 - Mint NFTs on Solana using Metaplex and Anchor: https://github.com/anoushk1234/metaplex-anchor-nft
   > An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
-- Cardinal: https://www.cardinal.so/
-  > Cardinal is a Solana Protocol that enables the conditional ownership of NFTs. We're powering the future of NFT utility through rentals, subscriptions, staking, tickets and more.
 
 ### `Serum`
 > (FTX DEX backend): https://projectserum.com/
@@ -301,6 +299,9 @@
 ### Cardinal: https://www.cardinal.so/
 > The Utility Layer for Solana NFTs.
 - Github: https://github.com/cardinal-labs
+
+### Hydra: https://hydra-dox.vercel.app/
+  > Hydra is a wallet of wallets, a fanout wallet if you will. It enables extremely large membership sets that can take part in fund distribution from a central wallet. It works with SOL and any SPL token.
 
 - - -
 
