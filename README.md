@@ -217,6 +217,8 @@
 - Solana Playground:  https://beta.solpg.io/
 - Trdelník: https://github.com/Ackee-Blockchain/trdelnik
   > 🦀 Trdelník is Rust based testing framework providing several convenient developer tools for testing Solana programs written in Anchor.
+- `scfsd`: https://github.com/FrankC01/solana-gadgets/tree/main/rust/scfsd
+  > gathers all feature sets and their status from the various Solana clusters
 
 ### Network status
 
