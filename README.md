@@ -351,7 +351,8 @@
    - https://twitter.com/StrataProtocol/status/1520591579777421312
    - https://twitter.com/metaplex/status/1520608064155521024
    - https://twitter.com/laine_sa_/status/1520778331746095105
-- `2022-06-02` - Solana outage cause by durable nonces bug: https://twitter.com/laine_sa_/status/1532130311152226304
+- `2022-06-02` - Solana outage cause by durable nonces bug: https://solana.com/news/06-01-22-solana-mainnet-beta-outage-report-2
+   - https://twitter.com/laine_sa_/status/1532130311152226304
    - Solana Deep Dive - Network Outage: https://twitter.com/i/spaces/1RDGlgNOebqKL?s=20
 
 - - -
