@@ -80,6 +80,7 @@
 ### Learn
 - Solana Development Course: https://soldev.app/course
   > This course is designed to be the absolute best starting point for Web Developers looking to learn Web3 Development.
+  > https://github.com/Unboxed-Software/solana-course
 - Solana Cookbook: https://solanacookbook.com/
  > The Solana Cookbook is a developer resource that provides the essential concepts and references for building applications on Solana.
 - BUIDL a Solana Program - Explain me like I am web2: https://blog.mwrites.xyz/your-first-solana-program
