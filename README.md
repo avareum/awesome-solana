@@ -131,6 +131,7 @@
 - Create a Solana dApp from scratch: https://lorisleiva.com/create-a-solana-dapp-from-scratch
   > Implement a simplified version of Twitter as a Solana dApp (decentralised application). We'll write our own program and use it in a custom VueJS app.
 - Paginating and ordering accounts in Solana: https://lorisleiva.com/paginating-and-ordering-accounts-in-solana
+- Solana `NFT` resources : https://www.de.xyz/
 
 ### Other examples
 - Anchor (IDO, CFO, Swap, Multisig, Escrow, Game, Chat, Proxy, ...): https://github.com/project-serum/anchor/tree/master/tests
