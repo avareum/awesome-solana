@@ -313,7 +313,7 @@
 ### 😱 Pitfalls
 - Solana Smart Contracts: Common Pitfalls and How to Avoid Them: https://blog.neodyme.io/posts/solana_common_pitfalls
 - 10 vulnerabilities to avoid when writing Solana programs: https://twitter.com/pencilflip/status/1483880018858201090
-- Sealevel Attacks: https://github.com/project-serum/sealevel-attacks
+- Sealevel Attacks: https://github.com/coral-xyz/sealevel-attacks
   > Examples of common exploits unique to the Solana programming model and recommended idioms for avoiding these attacks using the Anchor framework.
 
 - - -
