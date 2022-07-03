@@ -84,6 +84,10 @@
 - Solana Cookbook: https://solanacookbook.com/
  > The Solana Cookbook is a developer resource that provides the essential concepts and references for building applications on Solana.
 - BUIDL a Solana Program - Explain me like I am web2: https://blog.mwrites.xyz/your-first-solana-program
+- Build a Web3 App on Solana: https://buildspace.so/learn-solana
+  > Ship an epic Web3 app on Solana with React and Rust.
+- Questbook x Superteam: https://www.startonsolana.com/
+  > Learn how to build on the world’s fastest blockchain by doing these quests and start contributing to ecosystem projects right away!
 
 ### Rust
 - https://github.com/katopz/awesome-rust
