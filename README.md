@@ -190,6 +190,8 @@
 - [Serum Vial](https://github.com/tardis-dev/serum-vial) - real-time WebSocket market data API for Serum
 - Bonfida: https://docs.bonfida.com/#exchanges
 - Bitquery: https://graphql.bitquery.io/ - graphql for Solana blockchain, [article](https://bitquery.io/blog/solana-api)
+- SolScan: https://public-api.solscan.io/docs/ 
+  > 150 req/30sec, 100k req/day
 
 ### Oracle
 - Pyth provides real-time on-chain market data: https://pyth.network/
