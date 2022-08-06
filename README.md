@@ -229,6 +229,7 @@
   > 🦀 Trdelník is Rust based testing framework providing several convenient developer tools for testing Solana programs written in Anchor.
 - `scfsd`: https://github.com/FrankC01/solana-gadgets/tree/main/rust/scfsd
   > gathers all feature sets and their status from the various Solana clusters
+- `Snowflake Safe` — Multisig Program Upgrade: https://medium.com/@snowflake_so/solana-multisig-program-upgrade-39d5273e509a
 
 ### Network status
 
@@ -237,6 +238,7 @@
 - [Solana Beach](https://solanabeach.io/) services status and block explorer
 - [Solana Validators](https://www.validators.app/) view validators statistics
 - https://www.realtps.net/
+- `SolanaFM`: https://solana.fm/
 
 ### Ethereum related
 - From Ethereum smart contracts to Solana programs: two common security pitfalls and beyond: https://medium.com/coinmonks/from-ethereum-smart-contracts-to-solana-programs-two-common-security-pitfalls-and-beyond-ea5b919ade1c
