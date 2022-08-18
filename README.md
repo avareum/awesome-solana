@@ -77,6 +77,7 @@
   - Part 4: the bank — a key component
     > https://blog.soteria.dev/solana-internals-part-4-the-bank-a-key-component-1d47b94cd705
  - Learn about the Sealevel program runtime & SBF virtual machine: https://bpf.wtf/
+ - How to make backwards compatible changes to a Solana program: https://formfunction.medium.com/how-to-make-backwards-compatible-changes-to-a-solana-program-45015dd8ff82
 
 ### Learn
 - Solana Development Course: https://soldev.app/course
