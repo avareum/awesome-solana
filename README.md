@@ -57,7 +57,7 @@
 
 ## 🧑🏻‍💻 Developer
 
-### Must Read
+### Good Read
 - ok so what the fuck is the deal with solana anyway: https://2501babe.github.io/posts/solana101.html
 - angkor wat: https://2501babe.github.io/posts/anchor101.html
 - How smart contracts work on Solana’s Proof of History based blockchain: https://medium.com/solana-labs/high-performance-memory-management-for-smart-contracts-aa9b3bc950fb
@@ -90,6 +90,8 @@
   > Ship an epic Web3 app on Solana with React and Rust.
 - Questbook x Superteam: https://www.startonsolana.com/
   > Learn how to build on the world’s fastest blockchain by doing these quests and start contributing to ecosystem projects right away!
+- Anchor-by-example: https://examples.anchor-lang.com/
+  > Anchor-by-example is an open source repository containing serveral Solana program example written in Anchor.
 
 ### Rust
 - https://github.com/katopz/awesome-rust
