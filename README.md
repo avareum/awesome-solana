@@ -140,6 +140,8 @@
   > Implement a simplified version of Twitter as a Solana dApp (decentralised application). We'll write our own program and use it in a custom VueJS app.
 - Paginating and ordering accounts in Solana: https://lorisleiva.com/paginating-and-ordering-accounts-in-solana
 - Solana `NFT` resources : https://www.de.xyz/
+- Gasless transactions: https://github.com/sevazhidkov/octane-demo
+  > ⛽ Octane allows to pay transaction fees through alternative methods. It's designed to onboard new wallets without any funds or stablecoin-only wallets without SOL.
 
 ### Other examples
 - Anchor (IDO, CFO, Swap, Multisig, Escrow, Game, Chat, Proxy, ...): https://github.com/project-serum/anchor/tree/master/tests
