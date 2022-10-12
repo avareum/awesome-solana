@@ -92,6 +92,7 @@
   > Learn how to build on the world’s fastest blockchain by doing these quests and start contributing to ecosystem projects right away!
 - Anchor-by-example: https://examples.anchor-lang.com/
   > Anchor-by-example is an open source repository containing serveral Solana program example written in Anchor.
+- Some Solana tuts: https://www.pointer.gg/tutorials
 
 ### Rust
 - https://github.com/katopz/awesome-rust
