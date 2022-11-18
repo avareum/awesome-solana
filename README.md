@@ -4,7 +4,6 @@
 
 ### Wallet
 - [Phantom Wallet](https://phantom.app/) A non-custodial, chrome extension, Solana crypto wallet
-- [SolFlare](https://solflare.com/) Non-custodial wallet for Solana
 
 ### Bridge
 - `Allbridge`: backed by `APYSwap` API 2022-Q1 Foundation: https://allbridge.io/
@@ -14,6 +13,8 @@
 - `Marinade`: Liquid Stake+Ref `SOL` get `mSOL` APY 6.16% and farm `SOL-mSOL`: https://marinade.finance/
 - `Lido`: `stSol` Liquid Stake (planned Ref) APY 5.89%: https://solana.lido.fi/
 - Stake rank: https://stakewiz.com/
+- Solana Tokenomics: https://solanacompass.com/tokenomics
+  > Keep track of Solana's circulating and non circulating supply, current inflation schedule and see the largest holders of locked Solana stake. Track the days on which the biggest unlocks of SOL occur, and see what happened with previous unlocks.
 
 ### Farms
 - `Raydium` (DEX on `Serum`): https://raydium.io/
@@ -28,7 +29,6 @@
 
 ### Yield Aggregator
 - 🌷 `Tulip`-  Aggregates yield farms from `Raydium` and `Saber` : https://tulip.garden/leverage
-- ☀️ `Sunny`-  Aggregator (Solana's composable DeFi yield aggregator), low apy bad ui:  https://app.sunny.ag/
 - `Francium` - Solana Yield Farming Calculator : https://francium.io/app/calculator
 - `Cykura`- Concentrated liquidity: https://cykura.io
 
