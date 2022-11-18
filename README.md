@@ -59,6 +59,7 @@
 
 ### Good Read
 - ok so what the fuck is the deal with solana anyway: https://2501babe.github.io/posts/solana101.html
+- Solana Core Concepts: https://medium.com/p/b74bbaf027f0
 - angkor wat: https://2501babe.github.io/posts/anchor101.html
 - How smart contracts work on Solana’s Proof of History based blockchain: https://medium.com/solana-labs/high-performance-memory-management-for-smart-contracts-aa9b3bc950fb
 - Solana Doc: https://docs.solana.com/
