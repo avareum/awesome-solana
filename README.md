@@ -188,6 +188,7 @@
 - Syndica: https://syndica.io/
 - QuickNode: https://quicknode.com/
 - Pocket Network: https://www.pokt.network/
+- Autoclock RPC: https://github.com/overclock-validator/autoclock-rpc
 
 ### Data/API
 - Token list: https://github.com/solana-labs/token-list/blob/main/src/tokens/solana.tokenlist.json
