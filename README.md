@@ -238,7 +238,9 @@
   > gathers all feature sets and their status from the various Solana clusters
 - `Snowflake Safe` — Multisig Program Upgrade: https://medium.com/@snowflake_so/solana-multisig-program-upgrade-39d5273e509a
 - `Better Call Sol` - The Missing Solana Client: https://bettercallsol.dev/
-  > Ideal for learning and sending ad-hoc requests 
+  > Ideal for learning and sending ad-hoc requests.
+- `Metaboss`: https://metaboss.rs/create.html?highlight=fungible#fungible
+  > Tools for mint `FT`, `NFT`.
 
 ### Network status
 
@@ -278,7 +280,7 @@
   > An example repo to demonstrate how to use anchor and metaplex to mint nfts on solana
 
 ### `Serum`
-> (FTX DEX backend): https://projectserum.com/
+> FTX DEX backend (discontinued?): https://projectserum.com/
 - [DEX source code](https://github.com/project-serum/serum-dex)
 - [Serum.JS](https://github.com/project-serum/serum-js), client-side javascript resources to connect to the DEX
 - [Serum DEX UI](https://github.com/project-serum/serum-dex-ui), an implementation of a UI for the Serum DEX
