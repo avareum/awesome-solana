@@ -94,6 +94,7 @@
   > Anchor-by-example is an open source repository containing serveral Solana program example written in Anchor.
 - Some Solana tuts: https://www.pointer.gg/tutorials
 - Full Solana and Rust programming course for beginners: https://careerbooster.io/courses/full-solana-and-rust-programming-course-for-beginners
+- A Real World Walkthrough of Solana Development: https://adept.at/forked/solana-blockchain-development
 
 ### Rust
 - https://github.com/katopz/awesome-rust
