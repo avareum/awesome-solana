@@ -111,6 +111,7 @@
 - [Program examples written in Rust](https://github.com/solana-labs/solana-program-library/tree/master/examples/rust)
 - [Interface for creating and managing SPL Tokens](https://www.spl-token-ui.com/#/)
 - Solana Web3 Example: https://yihau.github.io/solana-web3-demo/
+- The Solana Way: https://blog.mwrites.xyz/series/the-solana-way
 
 ### Wallet/dApp examples
 - SPL Token Wallet (`Serum`): https://github.com/project-serum/spl-token-wallet
