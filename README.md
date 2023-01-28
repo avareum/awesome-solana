@@ -17,9 +17,9 @@
   > Keep track of Solana's circulating and non circulating supply, current inflation schedule and see the largest holders of locked Solana stake. Track the days on which the biggest unlocks of SOL occur, and see what happened with previous unlocks.
 
 ### Farms
-- `Raydium` (DEX on `Serum`): https://raydium.io/
-- `APYSwap`: Stake(`ABR` APR 522.37%): https://stake.apyswap.com/
-- 🐳 `Orca`: Pools(`ABR-USDC` APR 218%): https://www.orca.so/pools
+- `OpenSerum`: 
+- `APYSwap`: https://stake.apyswap.com/
+- 🐳 `Orca`: https://www.orca.so/pools
 - `Saber`: cross-chain stablecoin exchange, low and unable to sort APY: https://saber.so/
 - `Mercurial` : Stable `wbBUSD-wbUSDC-wbUSDT-USDC` APY 14.33% : https://mercurial.finance/pools/wbbusd-4pool
 - `Jupiter` : takes zero fees : https://jup.ag/stats
@@ -50,7 +50,7 @@
 - `Solona Explorer`: https://explorer.solana.com/address/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
 
 ### Token List
-- https://github.com/solana-labs/token-list
+- https://github.com/solana-labs/token-list (outdate)
 - https://shipcapital.substack.com/p/drop-005-solana-tokendao
 
 - - -
@@ -99,6 +99,7 @@
 - A Real World Walkthrough of Solana Development: https://adept.at/forked/solana-blockchain-development
 - Solana courses: https://web3.freecodecamp.org/solana
 - Solana Crash Course: https://www.youtube.com/playlist?list=PLfEHHr3qexv_FEcsuEEmiwSTKfahbYzVX
+- Solana Workshop: https://github.com/solana-developers/workshops
 
 ### Rust
 - https://github.com/katopz/awesome-rust
