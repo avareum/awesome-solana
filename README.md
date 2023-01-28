@@ -248,6 +248,7 @@
   > Ideal for learning and sending ad-hoc requests.
 - `Metaboss`: https://metaboss.rs/create.html?highlight=fungible#fungible
   > Tools for mint `FT`, `NFT`.
+- Docker: https://github.com/solana-developers/workshops/blob/main/.devcontainer/Dockerfile
 
 ### Network status
 
