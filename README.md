@@ -48,6 +48,9 @@
 ### Explorer
 - `SolScan`: https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
 - `Solona Explorer`: https://explorer.solana.com/address/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
+- `Solana FM`: https://solana.fm/address/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
+- `Lumina FYI`: https://www.lumina.fyi/address/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
+- `Solana Beach`: https://solanabeach.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
 
 ### Token List
 - https://github.com/solana-labs/token-list (outdate)
