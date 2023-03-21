@@ -179,6 +179,7 @@
 - Peripheral contracts for interacting with Saber: https://github.com/saber-hq/saber-periphery
 - The best Solana Program Template (No Anchor!): https://github.com/stegaBOB/solana-program-template
   > Includes Shank/Solita SDK generation, Amman support, scripts, .github configuration, and more!
+- micro-sol-signer: Create, sign & decode Solana transactions with minimum deps. https://github.com/paulmillr/micro-sol-signer
 
 ### Farm SDK
 - Orca: https://github.com/orca-so/typescript-sdk
