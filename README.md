@@ -60,17 +60,16 @@
 
 ## 🧑🏻‍💻 Developer
 
-### Good Read
-- ok so what the fuck is the deal with solana anyway: https://2501babe.github.io/posts/solana101.html
-- Solana Core Concepts: https://medium.com/p/b74bbaf027f0
-- angkor wat: https://2501babe.github.io/posts/anchor101.html
-- How smart contracts work on Solana’s Proof of History based blockchain: https://medium.com/solana-labs/high-performance-memory-management-for-smart-contracts-aa9b3bc950fb
-- Solana Doc: https://docs.solana.com/
-- [Sealevel parallel runtime](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
-- Solana Program Library (SLP): https://spl.solana.com/
-  > The Solana Program Library (SPL) is a collection of on-chain programs targeting the Sealevel parallel runtime.
-- Solana Development Tutorial: Things you should know before structuring your code: https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43
-- Solana Transactions in Depth: https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2
+### Good Reads
+- [ok so what the fuck is the deal with solana anyway](https://2501babe.github.io/posts/solana101.html)
+- [angkor wat](https://2501babe.github.io/posts/anchor101.html)
+- [Solana Core Concepts](https://medium.com/p/b74bbaf027f0)
+- [High performance memory management for smart contracts](https://medium.com/solana-labs/high-performance-memory-management-for-smart-contracts-aa9b3bc950fb)
+- [Sealevel - Parallel Processing Thousands of Smart Contracts](https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-contracts-d814b378192)
+- [Solana Docs](https://docs.solana.com/)
+- [Solana Program Library (SPL) Docs](https://spl.solana.com/)
+- [Solana Development Tutorial: Things you should know before structuring your code](https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43)
+- [Solana Transactions in Depth](https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2)
 - Solana internals
   - Part 1: what are the native on-chain programs and why do they matter?
     > https://blog.soteria.dev/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter-61c981483e86
@@ -80,9 +79,13 @@
     > https://blog.soteria.dev/solana-internals-part-3-the-transaction-processing-unit-tpu-79887af07a04
   - Part 4: the bank — a key component
     > https://blog.soteria.dev/solana-internals-part-4-the-bank-a-key-component-1d47b94cd705
- - Learn about the Sealevel program runtime & SBF virtual machine: https://bpf.wtf/
- - How to make backwards compatible changes to a Solana program: https://formfunction.medium.com/how-to-make-backwards-compatible-changes-to-a-solana-program-45015dd8ff82
- - What are people's favourite (technical) resources on understanding `Solana` under the hood: https://twitter.com/Tristan0x/status/1614671087618646017
+- bpf.wtf
+  - [0x00: Intro](https://bpf.wtf/sol-0x00-intro/)
+  - [Need Moar Glass](https://bpf.wtf/moar-glass/)
+  - [0x03: SBF Instruction Set](https://bpf.wtf/sol-0x03-isa/)
+  - [0x04: Sealevel Syscalls](https://bpf.wtf/sol-0x04-syscalls/)
+ - [How to make backwards compatible changes to a Solana program](https://formfunction.medium.com/how-to-make-backwards-compatible-changes-to-a-solana-program-45015dd8ff82)
+ - [What are people's favourite (technical) resources on understanding `Solana` under the hood](https://twitter.com/Tristan0x/status/1614671087618646017)
 
 ### Learn
 - Solana Development Course: https://soldev.app/course
