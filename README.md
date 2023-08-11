@@ -71,15 +71,15 @@
   > The Solana Program Library (SPL) is a collection of on-chain programs targeting the Sealevel parallel runtime.
 - Solana Development Tutorial: Things you should know before structuring your code: https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43
 - Solana Transactions in Depth: https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2
-- Solana internals
-  - Part 1: what are the native on-chain programs and why do they matter?
-    > https://blog.soteria.dev/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter-61c981483e86
-  - Part 2: how is a Solana program deployed and upgraded
-    > https://blog.soteria.dev/solana-internals-part-2-how-is-a-solana-deployed-and-upgraded-d0ae52601b99
-  - Part 3: the transaction processing unit (TPU)
-    > https://blog.soteria.dev/solana-internals-part-3-the-transaction-processing-unit-tpu-79887af07a04
-  - Part 4: the bank — a key component
-    > https://blog.soteria.dev/solana-internals-part-4-the-bank-a-key-component-1d47b94cd705
+- Solana Internals (Sec3)
+  - [Part 1: What Are the Native On-Chain Programs and Why Do They Matter?](https://www.sec3.dev/blog/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter)
+  - [Part 2: How Is a Solana Program Deployed and Upgraded](https://www.sec3.dev/blog/solana-internals-part-2-how-is-a-solana-program-deployed-and-upgraded)
+  - [Part 3: The Transaction Processing Unit (TPU)](https://www.sec3.dev/blog/solana-internals-part-3-the-transaction-processing-unit-tpu)
+  - [Part 4: The Bank — A Key Component](https://www.sec3.dev/blog/solana-internals-part-4-the-bank-a-key-component)
+ - Solana Internals (Proph3t)
+  - [Part 1](https://medium.com/@metaproph3t/solana-internals-part-1-449ee68cb4f4)
+  - [Part 2](https://blog.blockmagnates.com/solana-internals-part-2-e2a27ec9ae2e)
+ - [Formal Verification of Solana Smart Contracts](https://medium.com/certora/formal-verification-of-solana-smart-contracts-2e57b960f953)
  - Learn about the Sealevel program runtime & SBF virtual machine: https://bpf.wtf/
  - How to make backwards compatible changes to a Solana program: https://formfunction.medium.com/how-to-make-backwards-compatible-changes-to-a-solana-program-45015dd8ff82
  - What are people's favourite (technical) resources on understanding `Solana` under the hood: https://twitter.com/Tristan0x/status/1614671087618646017
