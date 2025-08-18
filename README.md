@@ -9,6 +9,13 @@
 - `Allbridge`: backed by `APYSwap` API 2022-Q1 Foundation: https://allbridge.io/
 - `Wormhole`: just release v2, (liquidity still not stable `BSC`↔︎`ETH`↔︎`SOL`): https://wormholebridge.com/#/transfer
 
+### Claim Your SOL
+- [Claim Your SOLs](https://claimyoursols.app): Close empty accounts, burn trash coins, and claim your SOL.
+  > Open-source repository: [https://github.com/dawar2151/claimyoursols.app](https://github.com/dawar2151/claimyoursols.app)
+
+### Token Manager
+- [Bulk Send Tokens](https://solana.bulksendtokens.xyz): A tool for managing and sending tokens in bulk on Solana.
+
 ### Stake
 - `Marinade`: Liquid Stake+Ref `SOL` get `mSOL` APY 6.16% and farm `SOL-mSOL`: https://marinade.finance/
 - `Lido`: `stSol` Liquid Stake (planned Ref) APY 5.89%: https://solana.lido.fi/
