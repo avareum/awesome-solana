@@ -246,6 +246,7 @@
 - Solana Playground:  https://beta.solpg.io/
 - Trdelník: https://github.com/Ackee-Blockchain/trdelnik
   > 🦀 Trdelník is Rust based testing framework providing several convenient developer tools for testing Solana programs written in Anchor.
+- [Trident](https://github.com/Ackee-Blockchain/trident) - Fuzzing framework for Solana smart contracts
 - `scfsd`: https://github.com/FrankC01/solana-gadgets/tree/main/rust/scfsd
   > gathers all feature sets and their status from the various Solana clusters
 - `Snowflake Safe` — Multisig Program Upgrade: https://medium.com/@snowflake_so/solana-multisig-program-upgrade-39d5273e509a
