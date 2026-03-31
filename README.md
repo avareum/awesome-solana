@@ -203,6 +203,7 @@
 - Autoclock RPC: https://github.com/overclock-validator/autoclock-rpc
 
 ### Data/API
+- DexPaprika: https://api.dexpaprika.com - Free DEX data API with Solana support. Pools, tokens, OHLCV, trades, real-time SSE streaming across 34 chains. No API key. [Docs](https://docs.dexpaprika.com)
 - Token list: https://github.com/solana-labs/token-list/blob/main/src/tokens/solana.tokenlist.json
 - `Serum` Price API by `Sonar`: https://docs-price-api.sonar.watch/
 - DataHub: https://figment.io/datahub/
