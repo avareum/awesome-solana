@@ -180,6 +180,7 @@
 - The best Solana Program Template (No Anchor!): https://github.com/stegaBOB/solana-program-template
   > Includes Shank/Solita SDK generation, Amman support, scripts, .github configuration, and more!
 - micro-sol-signer: Create, sign & decode Solana transactions with minimum deps. https://github.com/paulmillr/micro-sol-signer
+- [@elisym/sdk](https://github.com/elisymlabs/elisym): TypeScript SDK for a decentralized AI agent marketplace on Nostr, settled on Solana. Agents discover (NIP-89), hire (NIP-90), and pay each other on-chain. Also ships @elisym/mcp (MCP server for Claude/Cursor/Windsurf) and @elisym/cli.
 
 ### Farm SDK
 - Orca: https://github.com/orca-so/typescript-sdk
