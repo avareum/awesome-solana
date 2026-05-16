@@ -254,6 +254,8 @@
 - `Metaboss`: https://metaboss.rs/create.html?highlight=fungible#fungible
   > Tools for mint `FT`, `NFT`.
 - Docker: https://github.com/solana-developers/workshops/blob/main/.devcontainer/Dockerfile
+- [TruthLayer](https://github.com/miraekims/Truthlayer) — Chrome extension with SIWS-based identity verification. Links Solana wallets to X handles via Phantom/Backpack signature, displays on-chain holdings next to every tweet.
+
 
 ### Network status
 
