@@ -171,6 +171,7 @@
   > The Solana Cookbook is a developer resource that provides the essential concepts and references for building applications on Solana. Each concept and reference will focus on specific aspects of Solana development while providing additional details and usage examples.
 
 ### Libraries & Frameworks
+- helius-python - Python SDK for Helius: https://github.com/markosnarinian/helius-python
 - Solana Program Library (SPL) is a collection of on-chain programs targeting the Sealevel parallel runtime: https://github.com/solana-labs/solana-program-library/blob/master/examples/rust/README.md
 - [Anchor Framework](https://project-serum.github.io/anchor/getting-started/introduction.html): a framework for Solana's Sealevel runtime providing several convenient developer tools : https://project-serum.github.io/anchor/tutorials/tutorial-0.html
 - Anchor Book: https://book.anchor-lang.com/
