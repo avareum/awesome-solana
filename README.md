@@ -210,6 +210,7 @@
 - [Serum Vial](https://github.com/tardis-dev/serum-vial) - real-time WebSocket market data API for Serum
 - Bonfida: https://docs.bonfida.com/#exchanges
 - Bitquery: https://graphql.bitquery.io/ - graphql for Solana blockchain, [article](https://bitquery.io/blog/solana-api)
+- Codex: https://www.codex.io/ - real-time token prices, charts and holder data API for Solana and 80+ other networks, [docs](https://docs.codex.io/)
 - SolScan: https://public-api.solscan.io/docs/ 
   > 150 req/30sec, 100k req/day
 
