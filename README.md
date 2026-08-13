@@ -218,6 +218,7 @@
 - Switchboard allows builders to create data feeds from any API: https://switchboard.xyz/
 
 ### Price examples
+- [Solana Token Price Alert (n8n)](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow: alerts on Telegram when an SPL token price crosses a threshold, via public Jupiter API.
 - `curl 'https://price-api.sonar.watch/prices/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE'`
 - `curl 'https://api.solscan.io/account?address=orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE'`
 - `Anchor` + `Pyth`: https://github.com/project-serum/anchor/blob/master/tests/pyth/tests/pyth.spec.ts
