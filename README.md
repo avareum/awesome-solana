@@ -9,6 +9,9 @@
 - `Allbridge`: backed by `APYSwap` API 2022-Q1 Foundation: https://allbridge.io/
 - `Wormhole`: just release v2, (liquidity still not stable `BSC`↔︎`ETH`↔︎`SOL`): https://wormholebridge.com/#/transfer
 
+### Swap
+- `Craic Hub Exchange`: non-custodial Solana swap front end routing via Jupiter, with a LI.FI cross-chain bridge; token launch and listings. Fees paid in $CRAIC are burned. https://thehubexchange.com
+
 ### Stake
 - `Marinade`: Liquid Stake+Ref `SOL` get `mSOL` APY 6.16% and farm `SOL-mSOL`: https://marinade.finance/
 - `Lido`: `stSol` Liquid Stake (planned Ref) APY 5.89%: https://solana.lido.fi/
