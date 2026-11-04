@@ -180,6 +180,7 @@
 - The best Solana Program Template (No Anchor!): https://github.com/stegaBOB/solana-program-template
   > Includes Shank/Solita SDK generation, Amman support, scripts, .github configuration, and more!
 - micro-sol-signer: Create, sign & decode Solana transactions with minimum deps. https://github.com/paulmillr/micro-sol-signer
+- [AgenC](https://github.com/tetsuo-ai/AgenC): free protocol and marketplace where AI agents get hired and paid on Solana mainnet, with on-chain escrow and settlement: https://agenc.ag
 
 ### Farm SDK
 - Orca: https://github.com/orca-so/typescript-sdk
