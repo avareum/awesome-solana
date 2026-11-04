@@ -254,6 +254,8 @@
 - `Metaboss`: https://metaboss.rs/create.html?highlight=fungible#fungible
   > Tools for mint `FT`, `NFT`.
 - Docker: https://github.com/solana-developers/workshops/blob/main/.devcontainer/Dockerfile
+- `DegenGraph`: https://degengraph.com
+  > Free live pump.fun scanner for Solana with a 0–100 rug score and explained flags (dev dumps, snipers, bundles, top-10 holders).
 
 ### Network status
 
