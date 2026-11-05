@@ -4,6 +4,7 @@
 
 ### Wallet
 - [Phantom Wallet](https://phantom.app/) A non-custodial, chrome extension, Solana crypto wallet
+- [Cavos](https://cavos.xyz/embedded-solana-wallet) Embedded wallet SDK for Solana with passkey and social login, non-custodial keys and gas sponsorship.
 
 ### Bridge
 - `Allbridge`: backed by `APYSwap` API 2022-Q1 Foundation: https://allbridge.io/
