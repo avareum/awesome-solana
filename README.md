@@ -237,6 +237,7 @@
 - [SPL Token Creator UI](https://www.spl-token-ui.com/)
 - [Bonfida Token Minter](https://bonfida.com/mint)
 - [SPL Manager](http://splmanager.com/)
+- [SOL Rent & Rug Shield](https://rentandrugshield.com): Non-custodial Solana wallet empty ATA rent recovery (`0x09 CloseAccount`), SPL/Token-2022 pre-buy rug scanner, and inner CPI drain simulator ([MIT SDK](https://github.com/sonnyman2014/solana-rent-rug-shield-mcp))
 - [honggfuzz-rs](https://github.com/rust-fuzz/honggfuzz-rs): Fuzz your Rust code with Google-developed Honggfuzz!
 - https://github.com/lithdew/alon : Alon is an IDE which allows for developers to rapidly build, iterate, test, and deploy decentralized apps and assets on Solana right from their browser
 - https://github.com/agoraxyz/agora-solana/blob/main/agsol-borsh-schema/README.md
