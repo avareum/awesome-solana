@@ -212,6 +212,7 @@
 - Bitquery: https://graphql.bitquery.io/ - graphql for Solana blockchain, [article](https://bitquery.io/blog/solana-api)
 - SolScan: https://public-api.solscan.io/docs/ 
   > 150 req/30sec, 100k req/day
+- [HelmSwap](https://github.com/gambrelcolby63/helmswap-sdk) — Non-custodial swap API and TypeScript SDK (`helmswap` on npm) for Solana, Base, BNB Chain and Ethereum. Disclosed fees; unsigned transactions; the user signs.
 
 ### Oracle
 - Pyth provides real-time on-chain market data: https://pyth.network/
